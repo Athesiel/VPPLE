@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/flower_pot_cross_custom",
-  "textures": {
-    "plant": "minecraft:block/brown_mushroom",
-    "dirt": "minecraft:block/mycelium_top",
-    "flowerpot": "minecraft:block/flower_pot"
-  }
-}
